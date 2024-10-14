@@ -37,7 +37,7 @@ This project is a simple, professional-looking calculator built using HTML, CSS,
 
 1. **Input Numbers**: Click the buttons or use your keyboard to input numbers and operations.
 2. **Perform Calculation**: Press `=` to calculate the result.
-3. **Clear Entry**: Use the `Clear` button or the `Backspace` key to remove the last digit.
+3. **Clear Entry**: Use the `Del.` button or the `Backspace` key to remove the last digit.
 4. **Reset**: Click the `AC` button to reset the calculator.
 5. **Switch Mode**: Click the moon/sun icon to toggle between light and dark modes.
 
