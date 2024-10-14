@@ -14,7 +14,10 @@ This project is a simple, professional-looking calculator built using HTML, CSS,
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/1c3bfe5f-9d3c-4526-ab54-75f939aca839)   ![image](https://github.com/user-attachments/assets/e5839975-e6ce-484d-81ae-7dea1acbf707)
+![Calculator Dark Mode](![image](https://github.com/user-attachments/assets/380bfa5e-c29b-49b7-8087-dc10eea8935d)
+)
+![Calculator Light Mode](![image](https://github.com/user-attachments/assets/0a99d132-019d-4c6c-a457-b039c192a6ee)
+)
 
 
 ## Technologies Used
