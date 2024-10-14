@@ -29,7 +29,7 @@ This project is a simple, professional-looking calculator built using HTML, CSS,
 
 1. Clone the repository or download the source code:
     ```bash
-    git clone https://github.com/your-username/professional-calculator.git
+    git clone https://github.com/Manishsahu116/Calculator.git
     ```
 2. Open the `index.html` file in your browser to use the calculator.
 
